@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T02.Ad Astra", "T02.Ad Astr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T03.The Pianist", "T03.The Pianist\T03.The Pianist.csproj", "{DD88F976-9C96-4E2E-94FF-2B324B836402}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T11.World Tour", "T11.World Tour\T11.World Tour.csproj", "{E245D8D5-6959-4C68-8358-A5975FC22F88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T11.World Tour", "T11.World Tour\T11.World Tour.csproj", "{E245D8D5-6959-4C68-8358-A5975FC22F88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T12.Destination Mapper", "T12.Destination Mapper\T12.Destination Mapper.csproj", "{44B4C24A-478F-4FB5-B1EE-C7242244C3E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T12.Destination Mapper", "T12.Destination Mapper\T12.Destination Mapper.csproj", "{44B4C24A-478F-4FB5-B1EE-C7242244C3E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T13. Plant Discovery", "T13. Plant Discovery\T13. Plant Discovery.csproj", "{3FF8F567-FC02-4FBE-9BCB-F1DE85C1B9C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T13. Plant Discovery", "T13. Plant Discovery\T13. Plant Discovery.csproj", "{3FF8F567-FC02-4FBE-9BCB-F1DE85C1B9C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T21.Secret Chat", "T21.Secret Chat\T21.Secret Chat.csproj", "{46CFA4D9-1CB5-4D5E-A25A-5280623E2740}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{3FF8F567-FC02-4FBE-9BCB-F1DE85C1B9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FF8F567-FC02-4FBE-9BCB-F1DE85C1B9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FF8F567-FC02-4FBE-9BCB-F1DE85C1B9C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46CFA4D9-1CB5-4D5E-A25A-5280623E2740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CFA4D9-1CB5-4D5E-A25A-5280623E2740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CFA4D9-1CB5-4D5E-A25A-5280623E2740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CFA4D9-1CB5-4D5E-A25A-5280623E2740}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
