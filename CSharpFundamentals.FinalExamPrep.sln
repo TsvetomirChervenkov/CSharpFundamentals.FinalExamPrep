@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T11.World Tour", "T11.World
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T12.Destination Mapper", "T12.Destination Mapper\T12.Destination Mapper.csproj", "{44B4C24A-478F-4FB5-B1EE-C7242244C3E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T13. Plant Discovery", "T13. Plant Discovery\T13. Plant Discovery.csproj", "{3FF8F567-FC02-4FBE-9BCB-F1DE85C1B9C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{44B4C24A-478F-4FB5-B1EE-C7242244C3E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44B4C24A-478F-4FB5-B1EE-C7242244C3E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44B4C24A-478F-4FB5-B1EE-C7242244C3E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF8F567-FC02-4FBE-9BCB-F1DE85C1B9C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF8F567-FC02-4FBE-9BCB-F1DE85C1B9C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF8F567-FC02-4FBE-9BCB-F1DE85C1B9C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF8F567-FC02-4FBE-9BCB-F1DE85C1B9C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
