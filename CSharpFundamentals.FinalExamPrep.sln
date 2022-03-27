@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T22.Mirror Words", "T22.Mir
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T23.Need for Speed III", "T23.Need for Speed III\T23.Need for Speed III.csproj", "{48F25558-4F26-4CF7-91C2-B5862EEDA4D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T33.Secret Chat", "T33.Secret Chat\T33.Secret Chat.csproj", "{04C306F4-1D32-4EF8-B1F6-E0C2165D7C0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T31.Secret Chat", "T33.Secret Chat\T31.Secret Chat.csproj", "{04C306F4-1D32-4EF8-B1F6-E0C2165D7C0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
